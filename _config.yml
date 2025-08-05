@@ -1,0 +1,23 @@
+# Site settings
+title: PEBCAK Consulting LLC
+email: sonofagl1tch@pebcakconsulting.com
+description: >-
+  Professional consulting services and technical insights.
+baseurl: "/pebcak-consulting-llc"
+url: "https://sonofagl1tch.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
