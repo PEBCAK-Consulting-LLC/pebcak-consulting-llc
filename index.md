@@ -2,20 +2,20 @@
 layout: home
 ---
 
-# Welcome to PEBCAK Consulting LLC
+# PEBCAK Consulting LLC
 
-Your trusted partner for cybersecurity consulting, threat hunting, and cloud security solutions.
+Cybersecurity content, research, and insights from Ryan Nolette.
 
 ## About Ryan Nolette
 
 AWS Senior Security Engineer, co-author of AWS Detective, and cybersecurity expert with over a decade of experience in threat research, incident response, and security operations.
 
-## Services
-- **Cloud Security Consulting** - AWS security architecture and best practices
+## Areas of Expertise
+- **Cloud Security** - AWS security architecture and best practices
 - **Threat Hunting** - Advanced persistent threat detection and analysis  
-- **Incident Response** - Rapid response and forensic investigation
-- **Security Training** - Speaking engagements and educational workshops
-- **Vulnerability Research** - Security testing and disclosure coordination
+- **Incident Response** - Digital forensics and breach investigation
+- **Security Research** - Vulnerability research and disclosure
+- **Education** - Speaking engagements and knowledge sharing
 
 ## Recent Highlights
 - Co-authored [Huntpedia - A Threat Hunter's Guide](https://www.threathunting.net/files/huntpedia.pdf)
