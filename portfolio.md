@@ -14,7 +14,7 @@ Ryan is AWS's Senior Security Engineer for the Outreach Team and CoAuthor of AWS
 
 ## Speaking Engagements
 Recent notable presentations include:
-- **FWD:Cloudsec EU 2024** - Inaugural conference keynote
+- **FWD:Cloudsec EU 2024** - Conference presentation
 - **Screaming in the Cloud Podcast** - Discussing cloud vulnerability disclosure
 - **SANS CloudSecNext Summit 2021** - "Doing Bad Things for Good Reasons"
 - **DerbyCon 2017** - "Threat Hunting for Lateral Movement"

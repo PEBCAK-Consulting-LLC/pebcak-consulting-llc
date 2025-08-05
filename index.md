@@ -20,7 +20,7 @@ AWS Senior Security Engineer, co-author of AWS Detective, and cybersecurity expe
 ## Recent Highlights
 - Co-authored [Huntpedia - A Threat Hunter's Guide](https://www.threathunting.net/files/huntpedia.pdf)
 - Featured on "Screaming in the Cloud" podcast discussing vulnerability disclosure
-- Keynote speaker at FWD:Cloudsec EU 2024
+- Speaker at FWD:Cloudsec EU 2024
 - Regular contributor to security conferences and publications
 
 [View Full Portfolio →](portfolio/) | [Speaking History →](speaking/) | [Presentations →](presentations/)
