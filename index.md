@@ -23,4 +23,4 @@ AWS Senior Security Engineer, co-author of AWS Detective, and cybersecurity expe
 - Keynote speaker at FWD:Cloudsec EU 2024
 - Regular contributor to security conferences and publications
 
-[View Full Portfolio →](/portfolio/) | [Speaking History →](/speaking/)
+[View Full Portfolio →](/portfolio/) | [Speaking History →](/speaking/) | [Presentations →](/presentations/)
