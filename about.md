@@ -10,6 +10,8 @@ A cybersecurity content and research platform showcasing the work and expertise 
 
 ## About Ryan Nolette
 
+![Ryan Nolette](/assets/images/headshot_20230207081935.jpg){: style="float: right; margin-left: 20px; width: 250px; border-radius: 10px;"}
+
 **Senior Security Engineer | AWS Detective Co-Author | Cybersecurity Expert**
 
 Ryan Nolette is a seasoned cybersecurity professional with over a decade of experience spanning threat research, incident response, security operations, and product development. Currently serving as AWS's Senior Security Engineer for the Outreach Team, Ryan is the co-author of AWS Detective and a recognized expert in cloud security and threat hunting.
@@ -67,6 +69,6 @@ Ryan is passionate about cybersecurity education and community building. He regu
 
 ## Contact Information
 
-- **Email**: sonofagl1tch@pebcakconsulting.com
+- **Email**: <sonofagl1tch@pebcakconsulting.com>
 - **LinkedIn**: [cloudy-with-a-chance-of-security](https://www.linkedin.com/in/cloudy-with-a-chance-of-security)
 - **GitHub**: [sonofagl1tch](https://github.com/sonofagl1tch)
