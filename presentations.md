@@ -50,4 +50,4 @@ One of my most popular presentations on detecting and hunting lateral movement i
 
 **Note**: All presentations are saved as PDFs with speaker notes. For animated versions or specific formatting requests, please [contact me](mailto:sonofagl1tch@pebcakconsulting.com).
 
-[← Back to Portfolio](/portfolio/) | [View Speaking History →](/speaking/)
+[← Back to Portfolio](portfolio/) | [View Speaking History →](speaking/)

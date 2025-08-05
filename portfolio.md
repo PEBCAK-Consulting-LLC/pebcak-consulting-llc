@@ -19,7 +19,7 @@ Recent notable presentations include:
 - **SANS CloudSecNext Summit 2021** - "Doing Bad Things for Good Reasons"
 - **DerbyCon 2017** - "Threat Hunting for Lateral Movement"
 
-[View complete speaking history →](/speaking/) | [View presentations →](/presentations/)
+[View complete speaking history →](speaking/) | [View presentations →](presentations/)
 
 ## Areas of Expertise
 - Cloud Security (AWS)
