@@ -12,6 +12,9 @@ A comprehensive list of all speaking engagements, presentations, and media appea
 
 | Engagement/Conference | Location | Date |
 | ----------------------------------------- | --------------------- | ---------------- |
+| Blackhat USA 2025 | TBD | August 2025 |
+| Defcon33 Bug Bounty Village | TBD | August 2025 |
+| Defcon33 Cloud Village | TBD | August 2025 |
 | From Idea to Open-Source: Building CNA-GURU, a Generative AI Assistant for Security Advisories | [Online](https://youtu.be/OYH8qbUueaI?si=n6yuH0Fo9O8fyo-O) | April 2025 |
 | The DOs and DON'Ts when conducting security testing in AWS | [Online](https://www.youtube.com/live/qxHy0tZhC-U?si=YKoDRtaZoL_vRiUR) | February 2025 |
 | Screaming in the Cloud | [Podcast](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/disclosing-vulnerabilities-in-the-cloud-with-ryan-nolette/) | October 2024 |
