@@ -8,7 +8,9 @@ url: "https://sonofagl1tch.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minimal
+theme: minimal-mistakes-jekyll
+logo: /assets/images/PEBCAK_consulting_llc.png
 plugins:
   - jekyll-feed
 
