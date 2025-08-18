@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/pebcak-consulting-llc/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/pebcak-consulting-llc/" rel="alternate" type="text/html" /><updated>2025-08-17T20:15:08-04:00</updated><id>http://localhost:4000/pebcak-consulting-llc/feed.xml</id><title type="html">PEBCAK Consulting LLC</title><subtitle>Professional consulting services and technical insights.</subtitle><entry><title type="html">Welcome to PEBCAK Consulting LLC</title><link href="http://localhost:4000/pebcak-consulting-llc/consulting/business/2025/08/05/welcome-to-pebcak-consulting.html" rel="alternate" type="text/html" title="Welcome to PEBCAK Consulting LLC" /><published>2025-08-05T13:00:00-04:00</published><updated>2025-08-05T13:00:00-04:00</updated><id>http://localhost:4000/pebcak-consulting-llc/consulting/business/2025/08/05/welcome-to-pebcak-consulting</id><content type="html" xml:base="http://localhost:4000/pebcak-consulting-llc/consulting/business/2025/08/05/welcome-to-pebcak-consulting.html"><![CDATA[<p>Welcome to the PEBCAK Consulting LLC blog!</p>
+
+<p>This is where we’ll share:</p>
+
+<ul>
+  <li>Technical insights</li>
+  <li>Consulting experiences</li>
+  <li>Industry best practices</li>
+  <li>Problem-solving approaches</li>
+</ul>
+
+<p>Stay tuned for more content!</p>]]></content><author><name></name></author><category term="consulting" /><category term="business" /><summary type="html"><![CDATA[Welcome to the PEBCAK Consulting LLC blog!]]></summary></entry><entry><title type="html">Building AWS Detective: Lessons from the Field</title><link href="http://localhost:4000/pebcak-consulting-llc/aws/cloud-security/detective/2024/01/03/aws-detective-insights.html" rel="alternate" type="text/html" title="Building AWS Detective: Lessons from the Field" /><published>2024-01-03T12:00:00-05:00</published><updated>2024-01-03T12:00:00-05:00</updated><id>http://localhost:4000/pebcak-consulting-llc/aws/cloud-security/detective/2024/01/03/aws-detective-insights</id><content type="html" xml:base="http://localhost:4000/pebcak-consulting-llc/aws/cloud-security/detective/2024/01/03/aws-detective-insights.html"><![CDATA[<p>As co-author of AWS Detective, I’ve had the unique opportunity to bridge the gap between traditional threat hunting and cloud-native security investigation. Here are some key insights from that journey.</p>
+
+<h2 id="from-concept-to-service">From Concept to Service</h2>
+
+<p>AWS Detective emerged from real-world needs I encountered while working with security teams struggling to investigate incidents in cloud environments. Traditional tools weren’t designed for the scale and complexity of modern cloud infrastructures.</p>
+
+<h2 id="key-challenges-we-solved">Key Challenges We Solved</h2>
+
+<h3 id="1-data-correlation-at-scale">1. Data Correlation at Scale</h3>
+<p>Cloud environments generate massive amounts of security data. Detective helps analysts quickly identify relationships between:</p>
+<ul>
+  <li>VPC Flow Logs</li>
+  <li>DNS logs</li>
+  <li>CloudTrail events</li>
+  <li>GuardDuty findings</li>
+</ul>
+
+<h3 id="2-visual-investigation">2. Visual Investigation</h3>
+<p>Drawing from my presentation experience on “Threat Hunting with Visualization,” we built intuitive visual interfaces that help analysts understand complex attack patterns.</p>
+
+<h3 id="3-time-based-analysis">3. Time-Based Analysis</h3>
+<p>One lesson from my Carbon Black days: time context is crucial. Detective’s timeline views help analysts understand the sequence of events during an incident.</p>
+
+<h2 id="real-world-applications">Real-World Applications</h2>
+
+<p>Based on my speaking engagements and consulting work, common use cases include:</p>
+<ul>
+  <li><strong>Lateral Movement Detection</strong> - Identifying unusual access patterns across AWS resources</li>
+  <li><strong>Insider Threat Investigation</strong> - Analyzing user behavior anomalies</li>
+  <li><strong>Compromise Assessment</strong> - Understanding the full scope of security incidents</li>
+</ul>
+
+<h2 id="best-practices-for-cloud-investigation">Best Practices for Cloud Investigation</h2>
+
+<p>From my SANS presentations and field experience:</p>
+
+<ol>
+  <li><strong>Start with high-fidelity alerts</strong> - Use GuardDuty findings as investigation starting points</li>
+  <li><strong>Follow the data flow</strong> - Understand how data moves through your cloud architecture</li>
+  <li><strong>Leverage automation</strong> - Use APIs to scale your investigation capabilities</li>
+</ol>
+
+<h2 id="looking-forward">Looking Forward</h2>
+
+<p>The cloud security landscape continues to evolve. My recent work on vulnerability disclosure and security testing (featured on “Screaming in the Cloud” podcast) shows there’s still much work to be done.</p>
+
+<hr />
+
+<p><em>Interested in cloud security investigation techniques? I regularly speak on these topics - <a href="mailto:sonofagl1tch@pebcakconsulting.com">contact me</a> for speaking opportunities.</em></p>]]></content><author><name></name></author><category term="aws" /><category term="cloud-security" /><category term="detective" /><summary type="html"><![CDATA[As co-author of AWS Detective, I’ve had the unique opportunity to bridge the gap between traditional threat hunting and cloud-native security investigation. Here are some key insights from that journey.]]></summary></entry><entry><title type="html">Threat Hunting: From Endpoint to Cloud</title><link href="http://localhost:4000/pebcak-consulting-llc/threat-hunting/cybersecurity/cloud/2024/01/02/threat-hunting-expertise.html" rel="alternate" type="text/html" title="Threat Hunting: From Endpoint to Cloud" /><published>2024-01-02T12:00:00-05:00</published><updated>2024-01-02T12:00:00-05:00</updated><id>http://localhost:4000/pebcak-consulting-llc/threat-hunting/cybersecurity/cloud/2024/01/02/threat-hunting-expertise</id><content type="html" xml:base="http://localhost:4000/pebcak-consulting-llc/threat-hunting/cybersecurity/cloud/2024/01/02/threat-hunting-expertise.html"><![CDATA[<p>Over the past decade, I’ve had the privilege of working across the threat hunting landscape - from endpoint security at Carbon Black to cloud security at AWS. Here’s what I’ve learned about the evolution of threat hunting.</p>
+
+<h2 id="the-journey">The Journey</h2>
+
+<p>My threat hunting journey began in traditional endpoint security, where we focused on:</p>
+<ul>
+  <li>Behavioral analysis of malware</li>
+  <li>Lateral movement detection</li>
+  <li>Ransomware investigation techniques</li>
+</ul>
+
+<h2 id="key-publications--research">Key Publications &amp; Research</h2>
+
+<p>Some highlights from my research and writing:</p>
+
+<h3 id="co-authored-huntpedia">Co-Authored Huntpedia</h3>
+<p>The <a href="https://www.threathunting.net/files/huntpedia.pdf">Huntpedia</a> serves as a comprehensive guide for threat hunters, covering methodologies and best practices I’ve developed over years of hands-on experience.</p>
+
+<h3 id="carbon-black-blog-series">Carbon Black Blog Series</h3>
+<p>During my time at Carbon Black, I authored numerous articles on:</p>
+<ul>
+  <li>Ransomware analysis and mitigation</li>
+  <li>Point-of-sale malware investigations</li>
+  <li>Bitcoin mining malware detection</li>
+  <li>SSL/TLS security considerations</li>
+</ul>
+
+<h2 id="speaking-at-scale">Speaking at Scale</h2>
+
+<p>From local meetups to international conferences like DerbyCon and SANS summits, I’ve shared insights on:</p>
+<ul>
+  <li><strong>Lateral Movement Detection</strong> - My DerbyCon 2017 presentation on hunting for lateral movement</li>
+  <li><strong>Cloud Threat Hunting</strong> - Adapting traditional hunting techniques for cloud environments</li>
+  <li><strong>Security Testing</strong> - “Doing Bad Things for Good Reasons” at SANS CloudSecNext</li>
+</ul>
+
+<h2 id="the-cloud-evolution">The Cloud Evolution</h2>
+
+<p>Moving to AWS has opened new frontiers in threat hunting:</p>
+<ul>
+  <li>Cloud-native detection techniques</li>
+  <li>Serverless security considerations</li>
+  <li>API-driven security automation</li>
+</ul>
+
+<h2 id="whats-next">What’s Next</h2>
+
+<p>The field continues to evolve with AI/ML integration and cloud-first architectures. Stay tuned for more insights on these emerging areas.</p>
+
+<hr />
+
+<p><em>Want to discuss threat hunting strategies? <a href="mailto:sonofagl1tch@pebcakconsulting.com">Reach out</a> - I’m always happy to share knowledge with fellow security practitioners.</em></p>]]></content><author><name></name></author><category term="threat-hunting" /><category term="cybersecurity" /><category term="cloud" /><summary type="html"><![CDATA[Over the past decade, I’ve had the privilege of working across the threat hunting landscape - from endpoint security at Carbon Black to cloud security at AWS. Here’s what I’ve learned about the evolution of threat hunting.]]></summary></entry><entry><title type="html">Beyond the Perimeter Podcast - Turning a Hobby Into a Career</title><link href="http://localhost:4000/pebcak-consulting-llc/podcast/career-development/cybersecurity/2020/06/15/beyond-perimeter-podcast.html" rel="alternate" type="text/html" title="Beyond the Perimeter Podcast - Turning a Hobby Into a Career" /><published>2020-06-15T13:00:00-04:00</published><updated>2020-06-15T13:00:00-04:00</updated><id>http://localhost:4000/pebcak-consulting-llc/podcast/career-development/cybersecurity/2020/06/15/beyond-perimeter-podcast</id><content type="html" xml:base="http://localhost:4000/pebcak-consulting-llc/podcast/career-development/cybersecurity/2020/06/15/beyond-perimeter-podcast.html"><![CDATA[<p>Featured interview discussing my journey from cybersecurity hobbyist to industry professional, sharing insights on career development in the security field.</p>
+
+<p><a href="/assets/pdfs/BeyondThePerimeterPodcast-Episode01-TurningaHobbyIntoACareer.pdf">Listen to the podcast (PDF transcript)</a></p>
+
+<p><strong>Perimeter81 Beyond the Perimeter Podcast - Episode 01</strong></p>]]></content><author><name></name></author><category term="podcast" /><category term="career-development" /><category term="cybersecurity" /><summary type="html"><![CDATA[Featured interview discussing my journey from cybersecurity hobbyist to industry professional, sharing insights on career development in the security field.]]></summary></entry><entry><title type="html">5 Objectives for Establishing an API-First Security Strategy</title><link href="http://localhost:4000/pebcak-consulting-llc/api-security/strategy/dark-reading/2018/01/10/api-first-security-strategy.html" rel="alternate" type="text/html" title="5 Objectives for Establishing an API-First Security Strategy" /><published>2018-01-10T12:00:00-05:00</published><updated>2018-01-10T12:00:00-05:00</updated><id>http://localhost:4000/pebcak-consulting-llc/api-security/strategy/dark-reading/2018/01/10/api-first-security-strategy</id><content type="html" xml:base="http://localhost:4000/pebcak-consulting-llc/api-security/strategy/dark-reading/2018/01/10/api-first-security-strategy.html"><![CDATA[<p>Essential objectives for organizations looking to implement an API-first approach to security. A strategic framework for modern security architectures.</p>
+
+<p><a href="/assets/pdfs/Dark Reading - 5 Objectives for Establishing an API-First Security Strategy.pdf">Read the full article (PDF)</a></p>
+
+<p><strong>Originally published on Dark Reading</strong></p>]]></content><author><name></name></author><category term="api-security" /><category term="strategy" /><category term="dark-reading" /><summary type="html"><![CDATA[Essential objectives for organizations looking to implement an API-first approach to security. A strategic framework for modern security architectures.]]></summary></entry><entry><title type="html">Top 3 Takeaways From DerbyCon</title><link href="http://localhost:4000/pebcak-consulting-llc/derbycon/conference/security-community/sqrrl/2017/10/15/derbycon-takeaways.html" rel="alternate" type="text/html" title="Top 3 Takeaways From DerbyCon" /><published>2017-10-15T13:00:00-04:00</published><updated>2017-10-15T13:00:00-04:00</updated><id>http://localhost:4000/pebcak-consulting-llc/derbycon/conference/security-community/sqrrl/2017/10/15/derbycon-takeaways</id><content type="html" xml:base="http://localhost:4000/pebcak-consulting-llc/derbycon/conference/security-community/sqrrl/2017/10/15/derbycon-takeaways.html"><![CDATA[<p>Key insights and lessons learned from DerbyCon, one of the premier hacker conferences.</p>
+
+<p><a href="/assets/pdfs/Top 3 Takeaways From DerbyCon - Sqrrl.pdf">Read the full article (PDF)</a></p>
+
+<p><strong>Originally published on Sqrrl Blog</strong></p>]]></content><author><name></name></author><category term="derbycon" /><category term="conference" /><category term="security-community" /><category term="sqrrl" /><summary type="html"><![CDATA[Key insights and lessons learned from DerbyCon, one of the premier hacker conferences.]]></summary></entry><entry><title type="html">Threat Hunter Profile - Ryan Nolette</title><link href="http://localhost:4000/pebcak-consulting-llc/threat-hunting/profile/interview/2017/09/20/threat-hunter-profile.html" rel="alternate" type="text/html" title="Threat Hunter Profile - Ryan Nolette" /><published>2017-09-20T13:00:00-04:00</published><updated>2017-09-20T13:00:00-04:00</updated><id>http://localhost:4000/pebcak-consulting-llc/threat-hunting/profile/interview/2017/09/20/threat-hunter-profile</id><content type="html" xml:base="http://localhost:4000/pebcak-consulting-llc/threat-hunting/profile/interview/2017/09/20/threat-hunter-profile.html"><![CDATA[<p>Featured threat hunter profile discussing my background, methodologies, and insights into the threat hunting profession.</p>
+
+<p><a href="/assets/pdfs/Threat Hunter Profile - Ryan Nolette.pdf">Read the full profile (PDF)</a></p>]]></content><author><name></name></author><category term="threat-hunting" /><category term="profile" /><category term="interview" /><summary type="html"><![CDATA[Featured threat hunter profile discussing my background, methodologies, and insights into the threat hunting profession.]]></summary></entry><entry><title type="html">Endpoint and Network Hunting: A Q&amp;amp;A with Ryan Nolette</title><link href="http://localhost:4000/pebcak-consulting-llc/threat-hunting/interview/endpoint-security/sqrrl/2017/08/15/endpoint-network-hunting-qa.html" rel="alternate" type="text/html" title="Endpoint and Network Hunting: A Q&amp;amp;A with Ryan Nolette" /><published>2017-08-15T13:00:00-04:00</published><updated>2017-08-15T13:00:00-04:00</updated><id>http://localhost:4000/pebcak-consulting-llc/threat-hunting/interview/endpoint-security/sqrrl/2017/08/15/endpoint-network-hunting-qa</id><content type="html" xml:base="http://localhost:4000/pebcak-consulting-llc/threat-hunting/interview/endpoint-security/sqrrl/2017/08/15/endpoint-network-hunting-qa.html"><![CDATA[<p>In-depth Q&amp;A session covering endpoint and network threat hunting methodologies, tools, and best practices.</p>
+
+<p><a href="/assets/pdfs/Endpoint and Network Hunting_ A Q&amp;A with Ryan Nolette - Sqrrl.pdf">Read the full Q&amp;A (PDF)</a></p>
+
+<p><strong>Originally published on Sqrrl Blog</strong></p>]]></content><author><name></name></author><category term="threat-hunting" /><category term="interview" /><category term="endpoint-security" /><category term="sqrrl" /><summary type="html"><![CDATA[In-depth Q&amp;A session covering endpoint and network threat hunting methodologies, tools, and best practices.]]></summary></entry><entry><title type="html">Situational-Awareness Driven Threat Hunting</title><link href="http://localhost:4000/pebcak-consulting-llc/threat-hunting/situational-awareness/sqrrl/2017/07/15/situational-awareness-threat-hunting.html" rel="alternate" type="text/html" title="Situational-Awareness Driven Threat Hunting" /><published>2017-07-15T13:00:00-04:00</published><updated>2017-07-15T13:00:00-04:00</updated><id>http://localhost:4000/pebcak-consulting-llc/threat-hunting/situational-awareness/sqrrl/2017/07/15/situational-awareness-threat-hunting</id><content type="html" xml:base="http://localhost:4000/pebcak-consulting-llc/threat-hunting/situational-awareness/sqrrl/2017/07/15/situational-awareness-threat-hunting.html"><![CDATA[<p>Building effective threat hunting programs through enhanced situational awareness and environmental understanding.</p>
+
+<p><a href="/assets/pdfs/Situational-Awareness driven Threat Hunting - Sqrrl.pdf">Read the full article (PDF)</a></p>
+
+<p><strong>Originally published on Sqrrl Blog</strong></p>]]></content><author><name></name></author><category term="threat-hunting" /><category term="situational-awareness" /><category term="sqrrl" /><summary type="html"><![CDATA[Building effective threat hunting programs through enhanced situational awareness and environmental understanding.]]></summary></entry><entry><title type="html">Threat Hunting with Bro</title><link href="http://localhost:4000/pebcak-consulting-llc/threat-hunting/bro-ids/network-security/sqrrl/2017/06/10/threat-hunting-with-bro.html" rel="alternate" type="text/html" title="Threat Hunting with Bro" /><published>2017-06-10T13:00:00-04:00</published><updated>2017-06-10T13:00:00-04:00</updated><id>http://localhost:4000/pebcak-consulting-llc/threat-hunting/bro-ids/network-security/sqrrl/2017/06/10/threat-hunting-with-bro</id><content type="html" xml:base="http://localhost:4000/pebcak-consulting-llc/threat-hunting/bro-ids/network-security/sqrrl/2017/06/10/threat-hunting-with-bro.html"><![CDATA[<p>Leveraging the Bro network security monitor (now Zeek) for effective threat hunting and network analysis.</p>
+
+<p><a href="/assets/pdfs/Threat Hunting with Bro - Sqrrl.pdf">Read the full article (PDF)</a></p>
+
+<p><strong>Originally published on Sqrrl Blog</strong></p>]]></content><author><name></name></author><category term="threat-hunting" /><category term="bro-ids" /><category term="network-security" /><category term="sqrrl" /><summary type="html"><![CDATA[Leveraging the Bro network security monitor (now Zeek) for effective threat hunting and network analysis.]]></summary></entry></feed>

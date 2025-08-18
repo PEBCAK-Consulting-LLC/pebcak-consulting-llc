@@ -8,9 +8,13 @@ url: "https://sonofagl1tch.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
+
+# Minima theme settings
+minima:
+  skin: dark
 
 # Exclude from processing
 exclude:
