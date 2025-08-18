@@ -57,7 +57,7 @@ Ryan Nolette is a seasoned cybersecurity professional with over a decade of expe
 
 ### Published Works & Recognition
 
-- **Co-Author**: [Huntpedia - A Threat Hunter's Guide](https://www.threathunting.net/files/huntpedia.pdf)
+- **Co-Author**: [Huntpedia - A Threat Hunter's Guide](https://www.threathunting.net/files/huntpedia.pdf){:rel="noopener"}
 - **AWS Detective**: Co-creator of AWS's security investigation service
 - **Industry Speaker**: 50+ presentations at major security conferences
 - **Published Researcher**: Extensive portfolio of security research and analysis
@@ -70,5 +70,5 @@ Ryan is passionate about cybersecurity education and community building. He regu
 ## Contact Information
 
 - **Email**: <sonofagl1tch@pebcakconsulting.com>
-- **LinkedIn**: [cloudy-with-a-chance-of-security](https://www.linkedin.com/in/cloudy-with-a-chance-of-security)
-- **GitHub**: [sonofagl1tch](https://github.com/sonofagl1tch)
+- **LinkedIn**: [cloudy-with-a-chance-of-security](https://www.linkedin.com/in/cloudy-with-a-chance-of-security){:rel="noopener"}
+- **GitHub**: [sonofagl1tch](https://github.com/sonofagl1tch){:rel="noopener"}

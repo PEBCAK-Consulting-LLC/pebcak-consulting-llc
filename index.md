@@ -18,7 +18,7 @@ Cybersecurity content, research, and insights from Ryan Nolette.
 
 ## Recent Highlights
 
-- Co-authored [Huntpedia - A Threat Hunter's Guide](https://www.threathunting.net/files/huntpedia.pdf)
+- Co-authored [Huntpedia - A Threat Hunter's Guide](https://www.threathunting.net/files/huntpedia.pdf){:rel="noopener"}
 - Featured on "Screaming in the Cloud" podcast discussing vulnerability disclosure
 - Speaker at FWD:Cloudsec EU 2024, Blackhat 2025, and Defcon 2025
 - Regular contributor to security conferences and publications
