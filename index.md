@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![PEBCAK Consulting LLC](/assets/images/PEBCAK_consulting_llc.png)
+![PEBCAK Consulting LLC](/assets/images/PEBCAK_consulting_llc.png){: style="float: center; margin-left: 20px; width: 250px; border-radius: 10px;"}
 
 # PEBCAK Consulting LLC
 

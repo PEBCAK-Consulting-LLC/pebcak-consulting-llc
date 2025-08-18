@@ -10,7 +10,7 @@ A cybersecurity content and research platform showcasing the work and expertise 
 
 ## About Ryan Nolette
 
-![Ryan Nolette](/assets/images/headshot_20230207081935.jpg){: style="float: right; margin-left: 20px; width: 250px; border-radius: 10px;"}
+![Ryan Nolette](/assets/images/headshot_20230207081935.jpg){: style="float: left; margin-left: 20px; width: 250px; border-radius: 10px;"}
 
 **Senior Security Engineer | AWS Detective Co-Author | Cybersecurity Expert**
 
