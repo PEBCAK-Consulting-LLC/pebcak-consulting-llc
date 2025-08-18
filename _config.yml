@@ -14,10 +14,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Minima theme settings
-minima:
-  skin: dark
-
 # Exclude from processing
 exclude:
   - Gemfile
