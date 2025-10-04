@@ -24,4 +24,4 @@ Cybersecurity content, research, and insights from Ryan Nolette.
 - Regular contributor to security conferences and publications
 - <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> [Subscribe to our YouTube channel](https://www.youtube.com/@PEBCAKConsultingLLC){:rel="noopener"} for security insights and presentations
 
-[View Full Portfolio →](portfolio/) | [Speaking History →](speaking/) | [Presentations →](presentations/)
+[About →](about/) | [Speaking History →](speaking/) | [Presentations →](presentations/)
