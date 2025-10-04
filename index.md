@@ -23,5 +23,3 @@ Cybersecurity content, research, and insights from Ryan Nolette.
 - Speaker at FWD:Cloudsec EU 2024, Blackhat 2025, and Defcon 2025
 - Regular contributor to security conferences and publications
 - <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> [Subscribe to our YouTube channel](https://www.youtube.com/@PEBCAKConsultingLLC){:rel="noopener"} for security insights and presentations
-
-[About →](about/) | [Speaking History →](speaking/) | [Presentations →](presentations/)
