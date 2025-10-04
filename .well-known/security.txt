@@ -1,0 +1,30 @@
+Contact: mailto:sonofagl1tch@pebcakconsulting.com
+Contact: https://www.linkedin.com/in/cloudy-with-a-chance-of-security
+Expires: 2035-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://sonofagl1tch.github.io/pebcak-consulting-llc/.well-known/security.txt
+
+# Security Policy for PEBCAK Consulting LLC Website
+
+This is a static Jekyll website hosted on GitHub Pages.
+
+## Scope
+- Website: https://sonofagl1tch.github.io/pebcak-consulting-llc/
+- Repository: https://github.com/sonofagl1tch/pebcak-consulting-llc
+
+## What to Report
+- Cross-site scripting (XSS) vulnerabilities
+- Content injection issues
+- Security misconfigurations
+- Privacy concerns
+
+## What NOT to Report
+- Issues with third-party services (GitHub Pages, external links)
+- Social engineering attempts
+- Physical security issues
+- Issues requiring user interaction beyond normal website usage
+
+## Response Time
+We aim to acknowledge security reports within 48 hours and provide updates within 7 days.
+
+Thank you for helping keep our website secure!

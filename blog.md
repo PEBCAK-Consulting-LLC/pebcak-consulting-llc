@@ -117,26 +117,48 @@ document.addEventListener('DOMContentLoaded', function() {
   const searchResults = document.getElementById('search-results');
   const postItems = document.querySelectorAll('.post-item');
 
-  searchInput.addEventListener('input', function() {
-    const query = this.value.toLowerCase().trim();
+  // Rate limiting for search
+  let searchTimeout;
+  const SEARCH_DELAY = 300; // milliseconds
+  const MAX_QUERY_LENGTH = 100;
 
-    if (query === '') {
-      showAllPosts();
+  searchInput.addEventListener('input', function() {
+    const rawQuery = this.value.trim();
+
+    // Input validation
+    if (rawQuery.length > MAX_QUERY_LENGTH) {
+      this.value = rawQuery.substring(0, MAX_QUERY_LENGTH);
       return;
     }
 
-    const results = [];
-    postItems.forEach(function(item) {
-      const title = item.getAttribute('data-title');
-      const content = item.getAttribute('data-content');
-      const categories = item.getAttribute('data-categories');
+    // Clear previous timeout
+    clearTimeout(searchTimeout);
 
-      if (title.includes(query) || content.includes(query) || categories.includes(query)) {
-        results.push(item);
+    // Debounce search to prevent excessive processing
+    searchTimeout = setTimeout(function() {
+      const query = rawQuery.toLowerCase();
+
+      if (query === '') {
+        showAllPosts();
+        return;
       }
-    });
 
-    displaySearchResults(results, query);
+      const results = [];
+      postItems.forEach(function(item) {
+        // Validate that item exists and has required attributes
+        if (!item || !item.getAttribute) return;
+
+        const title = item.getAttribute('data-title') || '';
+        const content = item.getAttribute('data-content') || '';
+        const categories = item.getAttribute('data-categories') || '';
+
+        if (title.includes(query) || content.includes(query) || categories.includes(query)) {
+          results.push(item);
+        }
+      });
+
+      displaySearchResults(results, query);
+    }, SEARCH_DELAY);
   });
 
   function showAllPosts() {
@@ -157,9 +179,15 @@ document.addEventListener('DOMContentLoaded', function() {
       return;
     }
 
-    let resultsHtml = '<h2>Search Results (' + results.length + ' found)</h2>';
-    results.forEach(function(item) {
-      resultsHtml += item.outerHTML;
+    // Validate results count to prevent potential issues
+    const validResults = results.filter(item => item && item.outerHTML);
+    let resultsHtml = '<h2>Search Results (' + validResults.length + ' found)</h2>';
+
+    validResults.forEach(function(item) {
+      // Additional security: ensure item is a valid DOM element
+      if (item.nodeType === Node.ELEMENT_NODE) {
+        resultsHtml += item.outerHTML;
+      }
     });
 
     searchResults.innerHTML = resultsHtml;
@@ -174,11 +202,19 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function clearSearch() {
-  document.getElementById('search-input').value = '';
-  document.getElementById('post-list').style.display = 'block';
-  document.getElementById('search-results').innerHTML = '';
+  const searchInput = document.getElementById('search-input');
+  const postList = document.getElementById('post-list');
+  const searchResults = document.getElementById('search-results');
+  
+  // Validate elements exist before manipulating
+  if (searchInput) searchInput.value = '';
+  if (postList) postList.style.display = 'block';
+  if (searchResults) searchResults.innerHTML = '';
+  
   document.querySelectorAll('.post-item').forEach(function(item) {
-    item.classList.remove('hidden');
+    if (item && item.classList) {
+      item.classList.remove('hidden');
+    }
   });
 }
 </script>
