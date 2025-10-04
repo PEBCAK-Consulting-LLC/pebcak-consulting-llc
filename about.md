@@ -69,6 +69,7 @@ Ryan is passionate about cybersecurity education and community building. He regu
 
 ## Contact Information
 
-- **Email**: <sonofagl1tch@pebcakconsulting.com>
-- **LinkedIn**: [cloudy-with-a-chance-of-security](https://www.linkedin.com/in/cloudy-with-a-chance-of-security){:rel="noopener"}
-- **GitHub**: [sonofagl1tch](https://github.com/sonofagl1tch){:rel="noopener"}
+- **Email**: ✉️ <sonofagl1tch@pebcakconsulting.com>
+- **LinkedIn**: <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> [cloudy-with-a-chance-of-security](https://www.linkedin.com/in/cloudy-with-a-chance-of-security){:rel="noopener"}
+- **GitHub**: <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> [sonofagl1tch](https://github.com/sonofagl1tch){:rel="noopener"}
+- **YouTube**: <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> [PEBCAK Consulting LLC](https://www.youtube.com/@PEBCAKConsultingLLC){:rel="noopener"}

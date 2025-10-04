@@ -8,6 +8,10 @@ permalink: /speaking/
 
 A comprehensive list of all speaking engagements, presentations, and media appearances throughout my cybersecurity career.
 
+## Youtube Channel
+
+<svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> [PEBCAK Consulting LLC](https://www.youtube.com/@PEBCAKConsultingLLC){:rel="noopener"}
+
 ## All Speaking Engagements
 
 | Engagement/Conference | Location | Date |
