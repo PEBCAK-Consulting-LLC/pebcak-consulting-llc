@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://sonofagl1tch.github.io/pebcak-consulting-llc/sitemap.xml
+
+# Disallow sensitive directories (if any exist in the future)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /.git/
+Disallow: /.kiro/
+
+# Allow common crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Rate limiting for aggressive crawlers
+Crawl-delay: 1

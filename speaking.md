@@ -32,7 +32,7 @@ A comprehensive list of all speaking engagements, presentations, and media appea
 | OSquery@Scale 2021 | [Online](https://www.youtube.com/watch?v=b81zSQ5MsDk){:rel="noopener"} | January 2021 |
 | Perimeter81: Beyond the Perimeter Podcast | [Podcast](https://www.perimeter81.com/blog/podcast/beyond-the-perimeter-podcast-episode-01-turning-a-hobby-into-a-career/){:rel="noopener"} | June 2020 |
 | Cloud Security Alliance Boston chapter | [Virtual](https://youtu.be/O5G_2gH21GE){:rel="noopener"} | April 2020 |
-| BSides NH 2019 | [Manchester, NH](http://bsidesnh.com/the-bsidesnh-2019-schedule-is-live/){:rel="noopener"} | May 2019 |
+| BSides NH 2019 | [Manchester, NH](https://bsidesnh.com/the-bsidesnh-2019-schedule-is-live/){:rel="noopener noreferrer"} | May 2019 |
 | SANS Cloud Security Summit 2019 | [San Diego, California](https://youtu.be/H2v65iTKcqw){:rel="noopener"} | April 2019 |
 | WHACK, the Wellesley College hackathon - mentor and teacher of security topics | Boston, MA | November 2018 |
 | HTCIA New England Chapter quarterly meeting - Threat Hunting in the cloud | Boston, MA | October 2018 |
@@ -41,13 +41,13 @@ A comprehensive list of all speaking engagements, presentations, and media appea
 | SANS Threat Hunting Summit 2018 - Threat Hunting in the cloud | [New Orleans, Louisiana](https://youtu.be/x4OJx2M52iI){:rel="noopener"} | September 2018 |
 | CyberThreat 2018 | [London, England](https://www.cyberthreat2018.com/){:rel="noopener"} | February 2018 |
 | Joint webinar with Carbon Black and Sqrrl: Threat Hunting for Experts: How to Hunt for Lateral Movement in Your Environment | [Online](https://www.youtube.com/watch?v=Cfln8zHTZvw&feature=youtu.be){:rel="noopener"} | October 2017 |
-| Featured in post "Network lateral movement from an attacker's perspective" by Michael Heller | [Online Article](http://searchsecurity.techtarget.com/news/450427135/Network-lateral-movement-from-an-attackers-perspective){:rel="noopener"} | September 2017 |
+| Featured in post "Network lateral movement from an attacker's perspective" by Michael Heller | [Online Article](https://searchsecurity.techtarget.com/news/450427135/Network-lateral-movement-from-an-attackers-perspective){:rel="noopener noreferrer"} | September 2017 |
 | Threat Hunting for Lateral Movement: DerbyCon Edition | [Louisville, Kentucky](https://www.youtube.com/watch?v=YFBHkRrARMI){:rel="noopener"} | September 2017 |
-| Webinar on Threat Hunting for Lateral Movement | [Online](http://info.sqrrl.com/threat-hunting-lateral-movement){:rel="noopener"} | May 2017 |
+| Webinar on Threat Hunting for Lateral Movement | [Online](https://info.sqrrl.com/threat-hunting-lateral-movement){:rel="noopener noreferrer"} | May 2017 |
 | Hunter Profile | [BrightTalk](https://www.brighttalk.com/webcast/15393/257671){:rel="noopener"} | May 2017 |
-| Opensec Hacksecure | [Boston, MA](http://opensec.hacksecure.org/){:rel="noopener"} | May 2017 |
-| The Infosecurity Magazine Conference | [Boston, MA](http://www.infosecurity-magazine.com/conferences/boston-agile-cybersecurity/){:rel="noopener"} | December 2016 |
-| HIMSS Privacy & Security Forum | [Boston, MA](http://www.healthprivacyforum.com/boston/2016/sponsorship/for-sponsors/sponsor-services6){:rel="noopener"} | December 2016 |
+| Opensec Hacksecure | [Boston, MA](https://opensec.hacksecure.org/){:rel="noopener noreferrer"} | May 2017 |
+| The Infosecurity Magazine Conference | [Boston, MA](https://www.infosecurity-magazine.com/conferences/boston-agile-cybersecurity/){:rel="noopener noreferrer"} | December 2016 |
+| HIMSS Privacy & Security Forum | [Boston, MA](https://www.healthprivacyforum.com/boston/2016/sponsorship/for-sponsors/sponsor-services6){:rel="noopener noreferrer"} | December 2016 |
 | ACSC | Boston, MA | November 2016 |
 | Infragard | Manchester, NH | October 2016 |
 | DarkReading Webinar | [Online](https://webinar.darkreading.com/2272){:rel="noopener"} | September 2016 |

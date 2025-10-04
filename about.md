@@ -57,7 +57,7 @@ Ryan Nolette is a seasoned cybersecurity professional with over a decade of expe
 
 ### Published Works & Recognition
 
-- **Co-Author**: [Huntpedia - A Threat Hunter's Guide](https://www.threathunting.net/files/huntpedia.pdf){:rel="noopener"}
+- **Co-Author**: [Huntpedia - A Threat Hunter's Guide](https://www.threathunting.net/files/huntpedia.pdf){:rel="noopener noreferrer"}
 - **AWS Detective**: Co-creator of AWS's security investigation service
 - **Industry Speaker**: 50+ presentations at major security conferences
 - **Published Researcher**: Extensive portfolio of security research and analysis
@@ -70,6 +70,6 @@ Ryan is passionate about cybersecurity education and community building. He regu
 ## Contact Information
 
 - **Email**: ✉️ <sonofagl1tch@pebcakconsulting.com>
-- **LinkedIn**: <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> [cloudy-with-a-chance-of-security](https://www.linkedin.com/in/cloudy-with-a-chance-of-security){:rel="noopener"}
-- **GitHub**: <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> [sonofagl1tch](https://github.com/sonofagl1tch){:rel="noopener"}
-- **YouTube**: <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> [PEBCAK Consulting LLC](https://www.youtube.com/@PEBCAKConsultingLLC){:rel="noopener"}
+- **LinkedIn**: <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> [cloudy-with-a-chance-of-security](https://www.linkedin.com/in/cloudy-with-a-chance-of-security){:rel="noopener noreferrer"}
+- **GitHub**: <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> [sonofagl1tch](https://github.com/sonofagl1tch){:rel="noopener noreferrer"}
+- **YouTube**: <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> [PEBCAK Consulting LLC](https://www.youtube.com/@PEBCAKConsultingLLC){:rel="noopener noreferrer"}

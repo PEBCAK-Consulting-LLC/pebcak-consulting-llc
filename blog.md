@@ -151,7 +151,9 @@ document.addEventListener('DOMContentLoaded', function() {
     postList.style.display = 'none';
 
     if (results.length === 0) {
-      searchResults.innerHTML = '<h2>Search Results</h2><div class="no-results">No posts found matching "' + query + '"</div>';
+      // Escape user input to prevent XSS
+      const escapedQuery = escapeHtml(query);
+      searchResults.innerHTML = '<h2>Search Results</h2><div class="no-results">No posts found matching "' + escapedQuery + '"</div>';
       return;
     }
 
@@ -161,6 +163,13 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     searchResults.innerHTML = resultsHtml;
+  }
+
+  // HTML escape function to prevent XSS
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
   }
 });
 
