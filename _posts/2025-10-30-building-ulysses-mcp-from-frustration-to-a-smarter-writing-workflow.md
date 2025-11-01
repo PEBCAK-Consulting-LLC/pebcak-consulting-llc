@@ -85,28 +85,28 @@ And my local LLM answers directly — privately, securely, and in near real time
 
 ## What It Looks Like
 
-![Ulysses manuscript with keywords](/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/ulysses-mcp-manuscript-view.png)  
+![Ulysses manuscript with keywords]({{ "/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/ulysses-mcp-manuscript-view.png" | relative_url }})  
 *Ulysses manuscript view showing how chapters/scenes are structured with the Keywords section visible, helping visualize the tagging workflow*
 
-![MCP server running](/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-server-running.png)  
+![MCP server running]({{ "/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-server-running.png" | relative_url }})  
 *The ulysses-mcp server running locally, ready to process requests and interact with Ulysses*
 
-![MCP requesting access](/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-requesting-access.png)  
+![MCP requesting access]({{ "/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-requesting-access.png" | relative_url }})  
 *Authorization request dialog showing the MCP server requesting access to your Ulysses library*
 
-![MCP authorization for character query](/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-howmanycharacters-authorize.png)  
+![MCP authorization for character query]({{ "/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-howmanycharacters-authorize.png" | relative_url }})  
 *Authorization prompt when the MCP server needs access to query character information from your manuscript*
 
-![Querying character count](/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-howmanycharacters-prompt.png)  
+![Querying character count]({{ "/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-howmanycharacters-prompt.png" | relative_url }})  
 *Example prompt asking the local LLM to analyze how many characters appear in the manuscript*
 
-![Character query results](/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-howmanycharacters-results.png)  
+![Character query results]({{ "/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-howmanycharacters-results.png" | relative_url }})  
 *The LLM's response showing detailed analysis of characters found throughout the manuscript*
 
-![Adding keywords prompt](/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-addkeyword-prompt.png)  
+![Adding keywords prompt]({{ "/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-addkeyword-prompt.png" | relative_url }})  
 *Requesting the MCP server to add keywords to specific chapters or scenes in Ulysses*
 
-![Keywords added successfully](/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-addkeyword-results.png)  
+![Keywords added successfully]({{ "/assets/images/2025-10-30-building-ulysses-mcp-from-frustration-to-a-smarter-writing-workflow/MCP-addkeyword-results.png" | relative_url }})  
 *Confirmation that keywords have been successfully added to the novel through the MCP integration*
 
 ---
