@@ -16,6 +16,8 @@ A comprehensive list of all speaking engagements, presentations, and media appea
 
 | Engagement/Conference | Location | Date |
 | ----------------------------------------- | --------------------- | ---------------- |
+| Zeroday.Cloud | TBD | December 2025 |
+| Wizdom USA 2025 | https://podcasts.apple.com/us/podcast/live-talk-security-minds-from-google-cloud-aws-wiz/id1675289400?i=1000740219561 | November 2025 | 
 | Blackhat USA 2025 | TBD | August 2025 |
 | Defcon33 Bug Bounty Village | TBD | August 2025 |
 | Defcon33 Cloud Village | TBD | August 2025 |
