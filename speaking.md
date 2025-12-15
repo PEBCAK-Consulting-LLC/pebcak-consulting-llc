@@ -20,7 +20,7 @@ A comprehensive list of all speaking engagements, presentations, and media appea
 | Wizdom USA 2025 | https://podcasts.apple.com/us/podcast/live-talk-security-minds-from-google-cloud-aws-wiz/id1675289400?i=1000740219561 https://youtu.be/iToeMjfr3Yg?si=3e7uUWnrUbxzdt9A | November 2025 | 
 | Blackhat USA 2025 | TBD | August 2025 |
 | Defcon33 Bug Bounty Village | TBD | August 2025 |
-| Defcon33 Cloud Village | TBD | August 2025 |
+| Defcon33 Cloud Village | https://youtu.be/kV6Bxanefrw?si=C9i652VxZ-TlTght | August 2025 |
 | From Idea to Open-Source: Building CNA-GURU, a Generative AI Assistant for Security Advisories | [Online](https://youtu.be/OYH8qbUueaI?si=n6yuH0Fo9O8fyo-O){:rel="noopener noreferrer"} | April 2025 |
 | The DOs and DON'Ts when conducting security testing in AWS | [Online](https://www.youtube.com/live/qxHy0tZhC-U?si=YKoDRtaZoL_vRiUR){:rel="noopener noreferrer"} | February 2025 |
 | Screaming in the Cloud | [Podcast](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/disclosing-vulnerabilities-in-the-cloud-with-ryan-nolette/){:rel="noopener noreferrer"} | October 2024 |
