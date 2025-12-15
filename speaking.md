@@ -17,10 +17,10 @@ A comprehensive list of all speaking engagements, presentations, and media appea
 | Engagement/Conference | Location | Date |
 | ----------------------------------------- | --------------------- | ---------------- |
 | Zeroday.Cloud | TBD | December 2025 |
-| Wizdom USA 2025 | https://podcasts.apple.com/us/podcast/live-talk-security-minds-from-google-cloud-aws-wiz/id1675289400?i=1000740219561 https://youtu.be/iToeMjfr3Yg?si=3e7uUWnrUbxzdt9A | November 2025 | 
+| Wizdom USA 2025 | [Podcast](https://podcasts.apple.com/us/podcast/live-talk-security-minds-from-google-cloud-aws-wiz/id1675289400?i=1000740219561){:rel="noopener noreferrer"} [Online](https://youtu.be/iToeMjfr3Yg?si=3e7uUWnrUbxzdt9A){:rel="noopener noreferrer"} | November 2025 | 
 | Blackhat USA 2025 | TBD | August 2025 |
-| Defcon33 Bug Bounty Village | https://youtu.be/YKHs2XJWmXU?si=rPNayM7oC8cGXy6O | August 2025 |
-| Defcon33 Cloud Village | https://youtu.be/kV6Bxanefrw?si=C9i652VxZ-TlTght | August 2025 |
+| Defcon33 Bug Bounty Village | [Online](https://youtu.be/YKHs2XJWmXU?si=rPNayM7oC8cGXy6O){:rel="noopener noreferrer"} | August 2025 |
+| Defcon33 Cloud Village | [Online](https://youtu.be/kV6Bxanefrw?si=C9i652VxZ-TlTght){:rel="noopener noreferrer"} | August 2025 |
 | From Idea to Open-Source: Building CNA-GURU, a Generative AI Assistant for Security Advisories | [Online](https://youtu.be/OYH8qbUueaI?si=n6yuH0Fo9O8fyo-O){:rel="noopener noreferrer"} | April 2025 |
 | The DOs and DON'Ts when conducting security testing in AWS | [Online](https://www.youtube.com/live/qxHy0tZhC-U?si=YKoDRtaZoL_vRiUR){:rel="noopener noreferrer"} | February 2025 |
 | Screaming in the Cloud | [Podcast](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/disclosing-vulnerabilities-in-the-cloud-with-ryan-nolette/){:rel="noopener noreferrer"} | October 2024 |
