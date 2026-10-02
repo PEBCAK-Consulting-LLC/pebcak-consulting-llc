@@ -4,7 +4,7 @@ email: sonofagl1tch@pebcakconsulting.com
 description: >-
   Professional consulting services and technical insights.
 baseurl: "/pebcak-consulting-llc"
-url: "https://sonofagl1tch.github.io"
+url: "https://pebcak-consulting-llc.github.io"
 
 # Build settings
 markdown: kramdown
